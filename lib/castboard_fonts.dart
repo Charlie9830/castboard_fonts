@@ -1,6 +1,5 @@
 library castboard_fonts;
 
-/// A Calculator.
 class CastboardFonts {
   static const List<String> fonts = [
     "Abril Fatface",
